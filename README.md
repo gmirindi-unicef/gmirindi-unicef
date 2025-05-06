@@ -16,7 +16,6 @@
   ‑ Sustainable ICT (solar‑powered edge, green data centres, Meraki SD‑WAN)  
   ‑ Inclusive ed‑tech & humanitarian connectivity (T4E)  
 - **🌱 Currently learning:**  
-  ‑ Production‑grade GitOps with ArgoCD & Crossplane  
   ‑ Vector search + RAG in low‑bandwidth contexts  
   ‑ Advanced financial modelling with Monte Carlo simulations  
 - **💞️ Open to collaborate on:**  
